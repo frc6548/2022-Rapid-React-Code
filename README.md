@@ -1,5 +1,4 @@
-# **__2022__** RAPID REACT CODE
+# 2022 RAPID REACT CODE
 
-Generic Tags
-:-
+**__Generic Tags__**
 timebased, tankdrive, everybot, neos
